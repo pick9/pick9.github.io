@@ -1,0 +1,71 @@
+#a1 {
+	color:#bc30c1;
+}
+
+#a2 {
+	color:#10660c;
+}
+
+#a3 {
+	color:black;
+}
+
+#a4 {
+	color:orange;
+}
+
+#a5 {
+	color:green;
+}
+
+#a6 {
+	color:blue;
+}
+
+#a7 {
+	color:red;
+}
+
+#a8 {
+	color:#597DA3;
+}
+
+#a9 {
+	color:red;
+}
+
+#a10 {
+	color:#86B817;
+}
+
+#a11 {
+	color:#CFB70D;
+}
+
+#white1 {
+	color:white;
+}
+
+#back1 {
+	background: url(reclam.jpg) no-repeat fixed left center;
+}
+
+#back2 {
+	background: url(reclam2.jpg) no-repeat fixed right center;
+}
+
+body {
+	font-family: cambria;
+}
+
+#back3{
+	background: url(back.png) no-repeat fixed center;
+}
+
+html {
+	background: url(5.jpg) no-repeat fixed back center;
+}
+
+.important {
+	color:red;
+}
